@@ -44,4 +44,6 @@ SkillSync is a web-based platform designed to bridge the gap between university 
 - Integrate platform resources to enhance curricula
 - Collaborate with industries for co-developed challenges
 
+Presentation Slide:
+https://www.canva.com/design/DAGktdezdpw/x8xa0aqyuHpCVuwZoN7h7w/edit?utm_content=DAGktdezdpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
